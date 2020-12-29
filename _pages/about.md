@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is my [CV] (http://zzwshuai.github.io/files/Zhiwei_Zhong_CV.pdf).
+This is my [CV] (https://zzwshuai.github.io/files/Zhiwei_Zhong_CV.pdf).
 
 
 

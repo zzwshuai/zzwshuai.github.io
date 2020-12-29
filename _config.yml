@@ -85,7 +85,7 @@ author:
   bio              : "Southeast University"
   location         : "Nanjing, China"
   employer         :
-  cv               : "http://zzwshuai.github.io/files/paper1.pdf"
+  cv               : 'http://zzwshuai.github.io/files/paper1.pdf'
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_U_lp18AAAAJ&hl=en"
   email            : "zzwshuai@gmail.com"

@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p style="text-align:justify>
+<p align="left">
 I am a Master student in Information Science and Engineering at Southeast University. My advisor is Prof. Chuan Zhang. My research focuses on VLSI design and deep learning applications in communication systems. Currently, I am working on algorithm optimization and VLSI implementation of 5G LDPC decoder with high flexibility and parallelism. 
 </p>
           

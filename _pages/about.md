@@ -11,8 +11,4 @@ redirect_from:
 I am a Master student in Information Science and Engineering at Southeast University.
 </p>
 
-#Please refer to my [CV](https://zzwshuai.github.io/files/Zhiwei_Zhong_CV.pdf) for more information.
-
-
-
 
